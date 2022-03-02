@@ -1,0 +1,94 @@
+.head{
+    text-decoration: underline;
+    font-size: 50px;
+    font-weight: 100;
+} 
+
+.dp{
+    border-radius: 200px;
+}
+
+.name{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;    
+    padding: 15px;
+    background-color: darkkhaki;
+    width: fit-content;
+    border-radius: 15px;
+    color: red;
+}
+
+#smh{
+    text-align: center;
+    text-decoration: underline;
+    font-size: 60px;
+}
+
+#sm{
+    align-items: center;
+    border-style: double;
+    border-width: 20px;
+    border-top-left-radius: 250px;
+    background-image: linear-gradient(
+        90deg, springgreen, gold, violet
+    );
+    padding: 5%;
+    width: 40%;
+}
+
+.sm{
+    height: 50px;
+    width: 50px;
+}
+
+.sml{
+    display: flex;
+    font-size: 30px;
+    padding-left: 20px;
+    color:white;
+    font-weight: 400;
+    background-image: linear-gradient(90deg,
+    blue, red);
+    border-radius: 15px;
+    margin: 10px;
+    padding: 10px;
+}
+
+.p1{
+    background-color: darkgrey;
+    font-size: 30px;
+    padding: 5%;
+    border-top-left-radius: 150px;
+    border-bottom-right-radius: 150px;
+}
+
+.logo{
+    position: absolute;
+    margin-left: 90%;
+    width: 106.5px;
+    height: 118px;
+}
+
+.p2{
+    font-size: 30px;
+    margin-left: 10%;
+}
+
+#p3{
+    display: block;
+    margin-left: 10%;
+    font-size: 25px;
+    margin-right: 10%;
+}
+
+.skills{
+    height: 200px;
+    width: 200px;
+}
+
+.page{
+    color: white;
+    background-color: blueviolet;
+    font-weight: 200;
+    padding: 15px;
+}
